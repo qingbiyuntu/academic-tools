@@ -16,7 +16,7 @@
 
 从输入到输出画清步骤，给每个判断出口标上实际条件。
 
-![系统流程图公开介绍](images/systemflow.jpg)
+![系统流程图编辑器中的登录校验与分支](../../images/student-examples/login-flowchart.png)
 
 [查看主站介绍](https://hajimicode.cn/tools/systemflow?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_systemflow)
 
@@ -24,7 +24,7 @@
 
 按人员或系统分道，在同一张图里展示交接与退回。
 
-![泳道图 / 活动图操作界面](images/swimlane.jpg)
+![请假审批泳道图编辑面板](../../images/student-examples/approval-swimlane.png)
 
 [查看主站介绍](https://hajimicode.cn/tools/swimlane?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_swimlane)
 
@@ -32,15 +32,13 @@
 
 把课程知识、论文提纲或会议议题整理成可展开的层级。
 
-![思维导图操作界面](images/mindmap.jpg)
+![思维导图编辑器中的论文结构和章节分支](../../images/student-examples/thesis-mindmap.png)
 
 [查看主站介绍](https://hajimicode.cn/tools/mindmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_mindmap)
 
 ### 用户登录流程图案例
 
 沿用户输入、验证、成功和重试查看登录流程的判断分支。
-
-![用户登录流程图案例公开介绍页](images/systemflow-example.jpg)
 
 [查看主站介绍](https://hajimicode.cn/templates/user-login-flowchart?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_systemflow-example)
 

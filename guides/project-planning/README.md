@@ -8,7 +8,7 @@
 
 把研究问题、阶段、任务与验证方式连成一条可追踪的路径。
 
-![技术路线图操作界面](images/roadmap.jpg)
+![实验研究技术路线图的阶段编辑和预览](../../images/student-examples/research-roadmap.png)
 
 [查看主站介绍](https://hajimicode.cn/tools/roadmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_roadmap)
 
@@ -48,7 +48,7 @@
 
 用主题、章节和子节点检查论文提纲的层级与覆盖范围。
 
-![论文提纲思维导图案例公开介绍页](images/thesis-outline.jpg)
+![毕业论文提纲思维导图的编辑和预览](../../images/student-examples/thesis-mindmap.png)
 
 [查看主站介绍](https://hajimicode.cn/templates/thesis-outline-mindmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_thesis-outline)
 

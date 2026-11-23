@@ -16,7 +16,7 @@
 
 用横轴类别与颜色分组比较数值，核对单位、图例与零基线。
 
-![柱状图绘图效果](images/bar.jpg)
+![分组柱状图的数据编辑和绘图结果](../../images/student-examples/grouped-bar.png)
 
 [查看主站介绍](https://hajimicode.cn/tools/academic-charts/bar?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=module_bar)
 

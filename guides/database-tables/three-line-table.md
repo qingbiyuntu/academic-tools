@@ -4,9 +4,9 @@
 
 论文中的三线表能清楚地区分表头和数据。常见结构是表格顶线、表头下边线和底线，同一份规范也可用于项目数据字典。
 
-![三线表介绍页的 SQL 输入与 Word 表格结果示例](images/three-line-table.jpg)
+![三线表编辑器的建表 SQL 及 Word 表格预览](../../images/student-examples/three-line-table.png)
 
-截图来自主站对应的工具介绍或公开示例。
+截图展示对应工具的示例操作。
 
 ## 操作步骤
 

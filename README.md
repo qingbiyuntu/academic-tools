@@ -4,7 +4,33 @@
 > **欢迎免费体验 [hajimicode.cn](https://hajimicode.cn/?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=readme_top)**
 > 从公开案例入手，按任务打开对应工具试做。
 
-![轻笔云图官网的三线表、ER 图和流程图介绍](images/home.jpg)
+## 学生常用图表
+
+点击图片放大。
+
+
+| 数据库三线表 | 学生选课 ER 图 |
+| --- | --- |
+| [![三线表编辑器的建表 SQL 和学生字段表](images/student-examples/three-line-table.png)](images/student-examples/three-line-table.png) | [![ER 编辑器的学生、课程和选课记录实体关系](images/student-examples/er-diagram.png)](images/student-examples/er-diagram.png) |
+| [打开编辑器](https://hajimicode.cn/table?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_three_line_table) | [打开编辑器](https://hajimicode.cn/er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_er_diagram) |
+
+
+| 登录功能测试用例 | 毕业论文提纲思维导图 |
+| --- | --- |
+| [![测试用例编辑器的登录用例与 Word 表格预览](images/student-examples/test-case.png)](images/student-examples/test-case.png) | [![思维导图编辑器的论文结构和章节分支](images/student-examples/thesis-mindmap.png)](images/student-examples/thesis-mindmap.png) |
+| [打开编辑器](https://hajimicode.cn/test-case?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_test_case) | [打开编辑器](https://hajimicode.cn/mindmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_thesis_mindmap) |
+
+
+| 用户登录流程图 | 请假审批泳道图 |
+| --- | --- |
+| [![流程图编辑器的登录校验和成功失败分支](images/student-examples/login-flowchart.png)](images/student-examples/login-flowchart.png) | [![泳道图编辑器的员工、直属主管、人事和总经理泳道](images/student-examples/approval-swimlane.png)](images/student-examples/approval-swimlane.png) |
+| [打开编辑器](https://hajimicode.cn/systemflow?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_login_flowchart) | [打开编辑器](https://hajimicode.cn/swimlane?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_approval_swimlane) |
+
+
+| 实验研究技术路线图 | 实验结果分组柱状图 |
+| --- | --- |
+| [![技术路线图编辑器的理论准备、实验实施和结果检验](images/student-examples/research-roadmap.png)](images/student-examples/research-roadmap.png) | [![学术图表编辑器的实验数据与分组柱状图](images/student-examples/grouped-bar.png)](images/student-examples/grouped-bar.png) |
+| [打开编辑器](https://hajimicode.cn/roadmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_research_roadmap) | [打开编辑器](https://hajimicode.cn/academic-charts?type=bar&utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_grouped_bar) |
 
 用 Excel 表格画科研统计图，用文字画流程图和思维导图，用建表 SQL 做 ER 图与 Word 三线表。这里按具体任务整理示例，适合毕业论文、实验报告、课程教学、项目计划与工作汇报。可以先复制示例数据，查看预期结果，再打开对应工具试做。
 
@@ -32,8 +58,6 @@
 | [简历与面试准备](guides/career/README.md) | 1 个功能或案例截图、3 篇教程 |
 
 ## Excel 数据与科研图表
-
-![柱状图绘图效果](guides/research-charts/images/bar.jpg)
 
 ### Excel 怎么画带图例的分组柱状图
 
@@ -66,8 +90,6 @@
 科研图表目录还包括森林图、相关性矩阵、桑基图和多种学科图型。用于论文时，在图注里补齐单位、样本量、分组含义和统计口径。[查看学术图表目录](https://hajimicode.cn/tools/academic-charts?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_academic-charts)
 
 ## AI 绘图与流程设计
-
-![用户登录流程图案例公开介绍页](guides/ai-drawing/images/systemflow-example.jpg)
 
 ### 一段文字怎么变成带是非分支的流程图
 
@@ -105,8 +127,6 @@ flowchart TD
 
 ## 信息图与白板演示
 
-![智绘白板真实界面：左侧图形库、血液和心脏图文讲解、右侧幻灯片](guides/infographics-whiteboard/images/board.jpg)
-
 ### 一张图展示方案对比、项目进度或组织关系
 
 写项目简报时，可以选时间轴呈现进度、用对比图说明备选方案、用层级图介绍团队职责、用 SWOT 四象限整理讨论。比如社区活动方案对比，可以用两栏分别放室内和室外方案，每栏按预算、人数和天气影响写对应要点。[浏览信息图模板](https://hajimicode.cn/tools/infographic/templates?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_infographic_templates)
@@ -116,8 +136,6 @@ flowchart TD
 备课可以把白板分成「概念讲解」「例题演算」「课堂小结」三个区域，在每一区放入文字、图形库素材和示意连线，再按讲课顺序做成演示。项目评审也可以依次摆放背景、方案、风险和下一步。需要单独细调流程图、架构图和 UML 的图形、连线或样式时，可以使用专业绘图入口。[了解智绘白板](https://hajimicode.cn/tools/board?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_board) · [查看白板演示教程](https://hajimicode.cn/tutorials/whiteboard-presentation?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tutorials_whiteboard-presentation) · [了解智绘云图](https://hajimicode.cn/tools/zhihui?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_zhihui)
 
 ## 数据库图表与测试文档
-
-![三线表介绍页的 SQL 输入与 Word 表格结果示例](guides/database-tables/images/three-line-table.jpg)
 
 ### MySQL 建表 SQL 怎么生成 ER 图和 Word 三线表
 
@@ -158,8 +176,6 @@ CREATE TABLE enrollment (
 
 ## 论文排版与答辩准备
 
-![论文格式检查工作区，左侧选择学校模板和 Word 文件，右侧检测与导出](guides/paper-formatting/images/tutorial-format-check.jpg)
-
 ### Word 论文格式检查从哪里开始
 
 | 检查什么 | 怎么确认 |
@@ -184,8 +200,6 @@ CREATE TABLE enrollment (
 先列出研究问题、所用方法、主要结果、结论和局限。每张结果页配一张最能说明观点的图或表，口头讲述时用一句话解释它回答了什么问题。答辩前可按「为什么这样做」「用什么证据验证」「有哪些限制」各准备一个回答。[查看答辩 PPT 工具](https://hajimicode.cn/tools/defense-ppt?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_defense-ppt) · [查看五分钟答辩稿结构](https://hajimicode.cn/tutorials/defense-script?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tutorials_defense-script) · [查看常见答辩追问](https://hajimicode.cn/tutorials/defense-questions?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tutorials_defense-questions)
 
 ## 简历与面试准备
-
-![简历编辑工作区的布局设置、内容模块与 A4 实时预览](guides/career/images/tutorial-resume-layout-export.jpg)
 
 应届生简历可以先整理课程、项目、实验或实习经历，再选与职位相关的两到三个例子。每条项目经历尽量写清自己负责什么、用什么方法、有哪些可以说明的结果。导出 A4 PDF 后检查分页和阅读顺序。面试练习时，把脱敏后的简历和岗位描述放在一起，准备技术选择、方案取舍和项目复盘等追问。[查看简历制作工具](https://hajimicode.cn/tools/resume?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_resume) · [查看岗位面试练习教程](https://hajimicode.cn/tutorials/ai-interview-preparation?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tutorials_ai-interview-preparation)
 
