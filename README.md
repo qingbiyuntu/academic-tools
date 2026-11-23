@@ -4,35 +4,35 @@
 > **欢迎免费体验 [hajimicode.cn](https://hajimicode.cn/?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=readme_top)**
 > 从公开案例入手，按任务打开对应工具试做。
 
+用虚构的选课、登录和实验数据练习 MySQL 建表 SQL 转 Word 三线表、学生选课系统 ER 图、登录功能测试用例、毕业论文提纲思维导图和 Excel 分组柱状图。正文提供示例数据和可编辑的 Word 样例。
+
 ## 学生常用图表
 
 点击图片放大。
 
 
-| 数据库三线表 | 学生选课 ER 图 |
+| MySQL 建表 SQL 转 Word 三线表 | 学生选课系统 ER 图 |
 | --- | --- |
 | [![三线表编辑器的建表 SQL 和学生字段表](images/student-examples/three-line-table.png)](images/student-examples/three-line-table.png) | [![ER 编辑器的学生、课程和选课记录实体关系](images/student-examples/er-diagram.png)](images/student-examples/er-diagram.png) |
-| [打开编辑器](https://hajimicode.cn/table?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_three_line_table) | [打开编辑器](https://hajimicode.cn/er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_er_diagram) |
+| [在线制作 Word 三线表](https://hajimicode.cn/table?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_three_line_table) | [在线绘制学生选课 ER 图](https://hajimicode.cn/er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_er_diagram) |
 
 
-| 登录功能测试用例 | 毕业论文提纲思维导图 |
+| 登录功能测试用例表 | 毕业论文提纲思维导图 |
 | --- | --- |
 | [![测试用例编辑器的登录用例与 Word 表格预览](images/student-examples/test-case.png)](images/student-examples/test-case.png) | [![思维导图编辑器的论文结构和章节分支](images/student-examples/thesis-mindmap.png)](images/student-examples/thesis-mindmap.png) |
-| [打开编辑器](https://hajimicode.cn/test-case?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_test_case) | [打开编辑器](https://hajimicode.cn/mindmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_thesis_mindmap) |
+| [在线制作登录测试用例表](https://hajimicode.cn/test-case?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_test_case) | [在线绘制论文提纲思维导图](https://hajimicode.cn/mindmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_thesis_mindmap) |
 
 
 | 用户登录流程图 | 请假审批泳道图 |
 | --- | --- |
 | [![流程图编辑器的登录校验和成功失败分支](images/student-examples/login-flowchart.png)](images/student-examples/login-flowchart.png) | [![泳道图编辑器的员工、直属主管、人事和总经理泳道](images/student-examples/approval-swimlane.png)](images/student-examples/approval-swimlane.png) |
-| [打开编辑器](https://hajimicode.cn/systemflow?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_login_flowchart) | [打开编辑器](https://hajimicode.cn/swimlane?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_approval_swimlane) |
+| [在线绘制登录流程图](https://hajimicode.cn/systemflow?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_login_flowchart) | [在线绘制请假审批泳道图](https://hajimicode.cn/swimlane?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_approval_swimlane) |
 
 
 | 实验研究技术路线图 | 实验结果分组柱状图 |
 | --- | --- |
 | [![技术路线图编辑器的理论准备、实验实施和结果检验](images/student-examples/research-roadmap.png)](images/student-examples/research-roadmap.png) | [![学术图表编辑器的实验数据与分组柱状图](images/student-examples/grouped-bar.png)](images/student-examples/grouped-bar.png) |
-| [打开编辑器](https://hajimicode.cn/roadmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_research_roadmap) | [打开编辑器](https://hajimicode.cn/academic-charts?type=bar&utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_grouped_bar) |
-
-用 Excel 表格画科研统计图，用文字画流程图和思维导图，用建表 SQL 做 ER 图与 Word 三线表。这里按具体任务整理示例，适合毕业论文、实验报告、课程教学、项目计划与工作汇报。可以先复制示例数据，查看预期结果，再打开对应工具试做。
+| [在线绘制实验技术路线图](https://hajimicode.cn/roadmap?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_research_roadmap) | [用实验数据绘制分组柱状图](https://hajimicode.cn/academic-charts?type=bar&utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_grouped_bar) |
 
 | 我想做什么 | 从这里开始 |
 | --- | --- |
@@ -59,7 +59,7 @@
 
 ## Excel 数据与科研图表
 
-### Excel 怎么画带图例的分组柱状图
+### Excel 分组柱状图怎么画？附可复制的实验数据
 
 假设有两种培养条件，在三个时间点分别记录样本测量值。下面是演示数据，可以粘贴到 Excel 或表格编辑器。
 
@@ -125,6 +125,12 @@ flowchart TD
 | 复盘问题，从人员、设备、方法等维度梳理成因 | [鱼骨图](https://hajimicode.cn/tools/fishbone?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_fishbone) |
 | 把关键事件和阶段成果沿时间顺序排列 | [项目时间轴](https://hajimicode.cn/tools/timeline?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_timeline) |
 
+### 毕业论文提纲思维导图（附章节示例）
+
+以「毕业论文提纲」为中心，可以先放五个分支。绪论交代问题和研究目标，相关研究列出文献线索，研究方法说明材料和步骤，结果与讨论列出主要发现和对应证据，结论整理局限与展望。也可以按课程要求调整这些一级分支。
+
+[查看论文提纲思维导图教程](guides/project-planning/mindmap-outline.md)
+
 ## 信息图与白板演示
 
 ### 一张图展示方案对比、项目进度或组织关系
@@ -137,7 +143,7 @@ flowchart TD
 
 ## 数据库图表与测试文档
 
-### MySQL 建表 SQL 怎么生成 ER 图和 Word 三线表
+### 学生选课系统 ER 图怎么画？用选课记录表示多对多关系
 
 用一个虚构的学生选课例子试做。学生和课程各有一张表，选课记录表连接两边。示例可直接复制到工具里作为输入。
 
@@ -162,17 +168,32 @@ CREATE TABLE enrollment (
 );
 ```
 
-- **ER 图**可核对三张实体表以及两条一对多关系。学生和课程通过选课记录形成多对多关系。
-- **Word 三线表**可查看字段名、数据类型和字段说明，再按学校或项目模板调整标题、字体和线宽。
-- **SQL 没有外键**时，先确认字段之间的实际业务含义，再手动补上关系和基数。
+学生与选课记录是一对多，课程与选课记录也是一对多。两条关系合起来表示学生与课程之间的多对多关系。若建表语句里没有外键，可根据实际字段和关联规则补画连线。
 
-[从 SQL 生成 ER 图](https://hajimicode.cn/tools/er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_er-diagram) · [从 SQL 生成 Word 三线表](https://hajimicode.cn/tools/table?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_table) · [查看无外键 SQL 的补关系教程](https://hajimicode.cn/tutorials/sql-to-er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tutorials_sql-to-er-diagram)
+[从 SQL 生成 ER 图](https://hajimicode.cn/tools/er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_er-diagram) · [查看无外键 SQL 的补关系教程](https://hajimicode.cn/tutorials/sql-to-er-diagram?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tutorials_sql-to-er-diagram)
+
+### MySQL 建表 SQL 转 Word 三线表，保留字段注释
+
+复制上面的建表 SQL 作为练习。预览里逐项核对字段名、数据类型、主键和 `COMMENT` 中的字段注释。插入论文后，再按学校模板检查表题、线宽和跨页表头。
+
+[从 SQL 生成 Word 三线表](https://hajimicode.cn/tools/table?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_table) · [下载学生选课三线表 Word 样例](https://hajimicode.cn/examples/student-course-tables.docx?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_three_line_word_sample)
 
 ### 系统设计和验收交付怎么选图
 
 系统模块图用来梳理业务功能，系统架构图适合说明展示层、业务层和数据层如何连接。接口请求可用时序图，带条件的业务步骤可用流程图。需求评审中可以画用例图，说明角色与系统能力的关系，也可以用类图梳理类、属性、关联和继承。工具目录里还有数据流图、协作图、状态图、网络拓扑图、部署图和对象图的入口。[查看绘图工具目录](https://hajimicode.cn/tools?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools) · [系统架构图](https://hajimicode.cn/tools/architecture?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_architecture) · [UML 类图与对象图](https://hajimicode.cn/tools/uml-designer?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_uml-designer)
 
-验收文档可以从测试用例表开始。比如测试登录时，分别记录正确密码、错误密码和账号锁定三个用例，为每条写上前置条件、输入、操作步骤和预期结果。[查看登录功能测试用例与 Word 模板](https://hajimicode.cn/tools/test-case?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_test-case)
+### 登录功能测试用例表（附可编辑 Word 模板）
+
+以虚构的练习系统为例。每条用例只验证一种情况，执行后再填写实测结果和通过状态。
+
+| 用例 | 前置条件 | 操作步骤 | 预期结果 |
+| --- | --- | --- | --- |
+| 正常登录 | 演示账号可用 | 输入正确账号和密码后提交 | 进入练习主页 |
+| 密码错误 | 演示账号可用 | 输入正确账号和错误密码后提交 | 提示登录失败，停留在登录页 |
+| 密码为空 | 已打开登录页 | 填写账号，留空密码后提交 | 提示填写密码 |
+| 退出后访问 | 已登录练习系统 | 退出并重新打开受限页面 | 跳回登录页 |
+
+[查看登录功能测试用例与 Word 模板](https://hajimicode.cn/tools/test-case?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=tools_test-case) · [下载登录功能测试用例 Word 模板](https://hajimicode.cn/examples/login-test-cases.docx?utm_source=github&utm_medium=referral&utm_campaign=academic_tools&utm_content=student_login_cases_word_sample)
 
 ## 论文排版与答辩准备
 
